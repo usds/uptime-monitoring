@@ -8,8 +8,8 @@ sites:
     url: https://www.usds.gov/
   - name: USDS Apply page
     url: https://www.usds.gov/apply
-  - name: Apply page iframe
-    url: https://eop-fra.secure.force.com/digitalservice/
+  # - name: Apply page iframe
+  #   url: https://eop-fra.secure.force.com/digitalservice/
 assignees:
   - kategreenUSDS
 status-website:
