@@ -19,14 +19,13 @@ status-website:
   baseUrl: /uptime-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: USDS Uptime Monitor 
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/usds/website).
+  introMessage: This is a status page for key pages on the USDS website, which uses **real-time** data from our [Github repository](https://github.com/usds/website).
   theme: light
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-# workflowSchedule: 
-#   uptime: "*/15 * * * *"
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule: 
+  uptime: "*/15 * * * *"
+  
