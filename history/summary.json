@@ -4,19 +4,19 @@
     "url": "https://www.usds.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usds.gov.ico",
     "slug": "usds-home-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 142,
-    "timeWeek": 144,
-    "timeMonth": 141,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 132,
+    "timeDay": 161,
+    "timeWeek": 150,
+    "timeMonth": 143,
+    "timeYear": 132,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 15
     }
   },
   {
