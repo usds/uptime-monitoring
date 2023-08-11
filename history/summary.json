@@ -24,18 +24,20 @@
     "url": "https://www.usds.gov/apply",
     "icon": "https://icons.duckduckgo.com/ip3/www.usds.gov.ico",
     "slug": "usds-apply-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 54,
-    "timeDay": 108,
-    "timeWeek": 33,
-    "timeMonth": 41,
+    "timeDay": 61,
+    "timeWeek": 31,
+    "timeMonth": 40,
     "timeYear": 54,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-11": 0
+    }
   },
   {
     "name": "Apply page iframe",
